@@ -4,8 +4,10 @@ The Game of Life is a cellular-automaton, zero-player game, developed by Cambrid
 
 This game became widely known when it was mentioned in an article published by Scientific American in 1970. It consists of a collection of cells that, based on a few mathematical rules, can live, die, or multiply. Depending on the initial conditions, the cells form various patterns throughout the course of the game.
 
-![Puffer-type breeder](./images/puffer-type-breeder.png) 
-*A screenshot of a puffer-type breeder (red) that leaves glider guns (green) in its wake, which in turn create gliders (blue). (by Wikipedia.org)*
+<div align="center">
+  <img src="./images/puffer-type-breeder.png" alt="Puffer-type breeder" style="width:100%;">
+  <p><em>A screenshot of a puffer-type breeder (red) that leaves glider guns (green) in its wake, which in turn create gliders (blue). (by Wikipedia.org)</em></p>
+</div>
 
 ## Rules
 
