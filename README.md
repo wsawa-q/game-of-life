@@ -35,7 +35,6 @@ The game is launched via the `main.py` file. You need to have the PyGame library
 
 <div align="center">
   <img src="./images/main-screen.jpg" alt="Main-Screen" style="width:100%;">
-  <p><em>A screenshot of a puffer-type breeder (red) that leaves glider guns (green) in its wake, which in turn create gliders (blue). (by Wikipedia.org)</em></p>
 </div>
 
 ## Main Logic
